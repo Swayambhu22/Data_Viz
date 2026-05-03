@@ -179,15 +179,3 @@ df_processed.write.mode("overwrite") \
 
 ---
 
-## Getting Started Checklist
-
-- [ ] Set up Python environment with required libraries
-- [ ] Configure cloud storage (S3/ADLS) access
-- [ ] Install Spark and Delta Lake locally or on cluster
-- [ ] Create sample datasets for testing
-- [ ] Build initial ETL pipeline
-- [ ] Design dashboard mockups
-- [ ] Implement data validation (Great Expectations)
-- [ ] Set up monitoring and alerting
-- [ ] Document architecture and processes
-- [ ] Deploy to production environment
